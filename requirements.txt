@@ -1,0 +1,10 @@
+numpy
+opencv-contrib-python
+openpyxl
+pandas
+Pillow
+pyttsx3
+tk
+
+
+
